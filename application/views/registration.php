@@ -16,6 +16,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="input-group mb-3">
                     <?= form_error("Username", "<div class='input-group'><small class='text-danger'>", "</small></div>") ?>
                     <input type="text" class="form-control" name="Username" placeholder="Username" value="<?= set_value('Username') ?>">
