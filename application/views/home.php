@@ -16,6 +16,7 @@
             <section class="content">
                 <div class="container-fluid">
                     <div class="callout callout-info mx-1 col-lg-9">
+                        
                         <h5><i class="fas fa-info"></i> Note:</h5>
                         <ul>
                             <li><strong>Barang Masuk</strong> merupakan barang dari pelanggan yang menunggu antrian untuk diservice</li>
