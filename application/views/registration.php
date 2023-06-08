@@ -26,6 +26,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="input-group mb-3">
                     <?= form_error("Email", "<div class='input-group'><small class='text-danger'>", "</small></div>") ?>
                     <input type="text" class="form-control" name="Email" placeholder="Email" value="<?= set_value('Email') ?>">
