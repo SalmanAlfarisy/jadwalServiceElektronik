@@ -7,7 +7,6 @@
             </div>
             <div class="card-body">
                 <?= $this->session->flashdata('message') ?>
-
                 <form action="<?= base_url() ?>" method="post">
                     <div class="input-group mb-3">
                         <?= form_error("Username", "<div class='input-group'><small class='text-danger'>", "</small></div>") ?>
